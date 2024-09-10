@@ -2,8 +2,9 @@
 - https://www.youtube.com/watch?v=nEno48RpDR4
 - https://www.geeksforgeeks.org/stream-in-java/
 - https://www.baeldung.com/java-8-streams
-
-![Uploading Screenshot 2024-09-11 at 3.01.06 AM.png…]()
+-
+-
+- <img width="755" alt="Screenshot 2024-09-11 at 3 02 00 AM" src="https://github.com/user-attachments/assets/be614713-d3bd-485d-9508-decfb3ca69bf">
 
 <img width="454" alt="Screenshot 2024-06-14 at 10 18 19 PM" src="https://github.com/kapilgarg16/streamAPI/assets/55026503/5cc23cf7-8c93-4479-9f63-a456cf673756">
 <img width="398" alt="Screenshot 2024-06-15 at 12 39 46 AM" src="https://github.com/kapilgarg16/streamAPI/assets/55026503/2ba2140c-160d-4f5d-9eb0-4ecedd27faf5">
